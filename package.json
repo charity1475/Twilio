@@ -1,0 +1,19 @@
+{
+  "name": "twilio",
+  "version": "1.0.0",
+  "description": "For my whatsapp bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charity1475/Twilio.git"
+  },
+  "author": "charity@steinny.inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charity1475/Twilio/issues"
+  },
+  "homepage": "https://github.com/charity1475/Twilio#readme"
+}
